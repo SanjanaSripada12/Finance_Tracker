@@ -26,10 +26,7 @@ A simple and interactive **Personal Finance Dashboard** built using **HTML, CSS,
 
 ## 📷 Project Preview
 
-![Personal Finance Dashboard](screenshot.png)
-
-> Replace `screenshot.png` with your project screenshot filename if different.
-
+![Personal Finance Dashboard](Finance_Tracker.png)
 ---
 
 ## 📂 Project Structure
@@ -96,7 +93,7 @@ No installation or additional libraries are required.
 
 ### Dashboard
 
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](Finance_Tracker.png)
 
 ---
 
@@ -104,7 +101,7 @@ No installation or additional libraries are required.
 
 **Sanjana Sripada**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/SanjanaSripada12
 
 ---
 
