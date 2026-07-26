@@ -25,7 +25,7 @@ A simple and interactive **Personal Finance Dashboard** built using **HTML, CSS,
 ---
 ## 🚀 Live Demo
 
-🔗 **Live Website:** https://sanjanasripada12.github.io/Finance_Tracker/
+🔗 **Live Demo:** https://sanjanasripada12.github.io/Finance_Tracker/
 
 ---
 
@@ -40,7 +40,7 @@ A simple and interactive **Personal Finance Dashboard** built using **HTML, CSS,
 ## 📂 Project Structure
 
 ```
-Personal-Finance-Dashboard/
+Finance_Tracker/
 │
 ├── index.html
 ├── style.css
@@ -56,13 +56,13 @@ Personal-Finance-Dashboard/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Personal-Finance-Dashboard.git
+git clone https://github.com/SanjanaSripada12/Finance_Tracker.git
 ```
 
 2. Open the project folder
 
 ```bash
-cd Personal-Finance-Dashboard
+cd Finance_Tracker
 ```
 
 3. Open `index.html` in your browser.
@@ -95,12 +95,15 @@ No installation or additional libraries are required.
 - 🌙 Dark Mode
 - 📱 Improved mobile responsiveness
 
+## 📄 License
+
+This project is licensed under the MIT License.
 
 ## 👩‍💻 Author
 
 **Sanjana Sripada**
 
-GitHub: https://github.com/SanjanaSripada12
+GitHub: **https://github.com/SanjanaSripada12**
 
 ---
 
