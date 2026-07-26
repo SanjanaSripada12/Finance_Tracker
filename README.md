@@ -37,7 +37,7 @@ Personal-Finance-Dashboard/
 ├── index.html
 ├── style.css
 ├── script.js
-├── screenshot.png
+├── Finance_Tracker.png
 └── README.md
 ```
 
