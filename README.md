@@ -27,9 +27,14 @@ A simple and interactive **Personal Finance Dashboard** built using **HTML, CSS,
 
 🔗 **Live Website:** https://sanjanasripada12.github.io/Finance_Tracker/
 
-## 📷 Project Preview
+---
 
-[Watch the Demo](Finance_Tracker.mp4)
+## 📸 Screenshots
+
+### Dashboard
+
+![Dashboard Screenshot](Finance_Tracker.png)
+
 ---
 
 ## 📂 Project Structure
@@ -90,15 +95,6 @@ No installation or additional libraries are required.
 - 🌙 Dark Mode
 - 📱 Improved mobile responsiveness
 
----
-
-## 📸 Screenshots
-
-### Dashboard
-
-![Dashboard Screenshot](Finance_Tracker.png)
-
----
 
 ## 👩‍💻 Author
 
