@@ -29,7 +29,7 @@ A simple and interactive **Personal Finance Dashboard** built using **HTML, CSS,
 
 ## 📷 Project Preview
 
-![Personal Finance Dashboard](Finance_Tracker.png)
+![Personal Finance Dashboard](Finance_Tracker.mp4)
 ---
 
 ## 📂 Project Structure
